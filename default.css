@@ -1,0 +1,69 @@
+body {
+	background-image: url("rave.jpg");
+}
+
+#header {
+	font-size: 120px;
+	margin-top:  50px;
+	margin-left: 100px;
+	margin-right:  15px;
+	margin-bottom: 0px;
+	font-family: courier;
+	width: 500px;
+	font-weight: bold;
+}
+
+#subheader {
+	font-family:  courier;
+	color: black;
+	margin-top:  0px;
+	margin-left: 100px;
+	margin-right:  15px;
+	margin-bottom: 50px;
+	font-size:  40px;
+
+}
+
+h1 {
+	font-size: 24px;
+	font-family:  helvetica, sans-serif;
+	margin-left:  15px;
+	margin-right: 15px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+p {
+	color: black;
+	font-family: Helvetica, sans-serif;
+	margin-left:  15px;
+	margin-right: 15px;
+	margin-top: 5px;
+}
+
+.left {
+	background-color: rgba(232, 252, 48, .9);
+	position:  absolute;
+	width: 400px;
+	text-align: center;
+
+}
+
+.right {
+	background-color: rgba(232, 252, 48, .9);
+	position: absolute;
+	left:  600px;
+	width: 400px;
+	text-align:  center;
+}
+
+.linkbutton {
+}
+
+}
+
+.imgcontainer {
+	width:  500px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
