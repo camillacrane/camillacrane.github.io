@@ -29,7 +29,7 @@ h1 {
 	font-family:  helvetica, sans-serif;
 	margin-left:  15px;
 	margin-right: 15px;
-	margin-top: 5px;
+	margin-top: 10px;
 	margin-bottom: 10px;
 }
 p {
@@ -45,6 +45,7 @@ p {
 	position:  absolute;
 	width: 400px;
 	text-align: center;
+	margin-left: 100px;
 
 }
 
@@ -57,13 +58,25 @@ p {
 }
 
 .linkbutton {
+	border-width: 1px;
+	border-color: black;
+	padding: 5px;
+	border-style: solid;
+	width: 90px;
+	margin: auto;
+	background-color: yellow;
 }
 
 }
 
 .imgcontainer {
-	width:  500px;
+	width:  300px;
 	margin-left: auto;
 	margin-right: auto;
 
+}
+
+.caption {
+	font-size: 12px;
+	color: gray;
 }
