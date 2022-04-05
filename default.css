@@ -109,6 +109,16 @@ p {
 }
 
 .caption {
-	font-size: 12px;
-	color: gray;
+	font-size: 14px;
+	color: black;
+	font-family: Helvetica;
+	padding: 5px;
+}
+
+a {
+	color: white;
+}
+
+.black {
+	color: black;
 }
